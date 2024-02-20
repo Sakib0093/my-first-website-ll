@@ -22,3 +22,31 @@ p img{
    margin-top: 15px;
 
 }
+
+.main-section h3{
+    text-align: center;
+    margin-top: 10px;
+    padding: 6px;
+}
+.main-section p{
+margin-top: 13px;
+
+    text-align: justify;
+    /* gap: 0,5rem; */
+    padding: 6px;
+}
+
+
+.containt-section h4{
+    margin-top: 12px;
+    text-align: center;
+
+}
+
+.media-1{
+    width: 50%;
+    margin-top: 10px;
+}
+.media-1:hover{
+    cursor: pointer;
+}
