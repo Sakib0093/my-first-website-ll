@@ -100,3 +100,22 @@ margin-top: 13px;
     border-radius: 10px;
     border: 1px solid greenyellow;
 }
+
+form{
+    padding: 5px;
+    margin: 5px;
+    
+}
+#email{
+    margin-top: 10px;
+    margin-right: 10px;
+    
+}
+#dob{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+#gender{
+    margin-top: 10px;
+    margin-right: 10px;
+}
